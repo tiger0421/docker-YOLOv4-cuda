@@ -1,7 +1,7 @@
 FROM tiger0421/docker-opencv-cuda:4.1.1
 
 RUN apt update && \
-    apt install -y --no-install-recommends && \
+    apt install -y --no-install-recommends \
         vim \
     && \
     apt autoremove -y && \
