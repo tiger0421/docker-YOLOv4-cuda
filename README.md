@@ -5,3 +5,6 @@ https://github.com/tiger0421/docker-opencv-cuda
 
 # Suport
 - melodic
+
+# Usage YOLOv4
+https://github.com/AlexeyAB/darknet
